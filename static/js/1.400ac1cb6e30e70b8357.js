@@ -1,0 +1,2 @@
+webpackJsonp([1],{CDJh:function(e,t){},nU8l:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"home"},[t("transition",{attrs:{name:"move",mode:"out-in"}},[t("router-view")],1)],1)},staticRenderFns:[]};var o=n("VU/8")({data:function(){return{}},created:function(){},mounted:function(){},methods:{}},r,!1,function(e){n("CDJh")},"data-v-4899ce6e",null);t.default=o.exports}});
+//# sourceMappingURL=1.400ac1cb6e30e70b8357.js.map
